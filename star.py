@@ -1,0 +1,11 @@
+print("STAR")
+
+print("         *")
+print("        * *")
+print("       * * *")
+print("      * * * *")
+print("     * * * * *")
+print("      * * * *")
+print("       * * *")
+print("        * *")
+print("         *")
